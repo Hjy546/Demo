@@ -10,7 +10,7 @@ public class Main2Activity2 extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main22);
-        Log.d(">>>", "b");
+        Log.d(">>>", "e");
         Log.d(">>>", "c");
     }
 }
