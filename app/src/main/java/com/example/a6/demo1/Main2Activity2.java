@@ -11,6 +11,6 @@ public class Main2Activity2 extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main22);
         Log.d(">>>", "b");
-        Log.d(">>>", "a");
+        Log.d(">>>", "c");
     }
 }
