@@ -28,6 +28,7 @@ public class MainActivity extends Activity implements View.OnClickListener {
             default:
                 startActivity(new Intent(this, Main2Activity2.class));
                 startActivity(new Intent(this, Main2Activity2.class));
+                startActivity(new Intent(this, Main2Activity2.class));
                 break;
         }
     }
