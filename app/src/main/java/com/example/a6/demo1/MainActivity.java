@@ -25,8 +25,7 @@ public class MainActivity extends Activity implements View.OnClickListener {
             case R.id.btn:
                 startActivity(new Intent(this, Main2Activity2.class));
                 break;
-            default:
-                break;
+         
         }
     }
 }
